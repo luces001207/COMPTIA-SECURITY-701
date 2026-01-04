@@ -2,27 +2,27 @@
 
 **✅ Passed CompTIA Security+ (SY0-701) on January 4, 2026**
 
-This repository consolidates study resources, videos, practice materials, and review tools that helped me successfully pass the CompTIA Security+ (SY0-701) exam.
+This repository consolidates study resources, videos, practice materials, and review tools that helped me successfully pass the CompTIA Security+ (SY0-701) exam.    
 
 ⚠️ Important Note
-Always ensure your study materials align with the current CompTIA Security+ exam version (SY0-701), as objectives and emphasis may change over time.
+Always ensure your study materials align with the current CompTIA Security+ exam version (SY0-701), as objectives and emphasis may change over time.      
 
 **📝 CompTIA Security+ Exam Details (SY0-701)**
 
-Exam Code: SY0-701
-Certification: CompTIA Security+
-Duration: 90 minutes
-Maximum Questions: Up to 90
-Question Types:
+Exam Code: SY0-701    
+Certification: CompTIA Security+    
+Duration: 90 minutes    
+Maximum Questions: Up to 90     
+Question Types:     
 
--Multiple Choice
--Performance-Based Questions (PBQs) **(Make sure you review the Linux command)**
--Passing Score: 750 (on a scale of 100–900)
+-Multiple Choice    
+-Performance-Based Questions (PBQs) **(Make sure you review the Linux command)**      
+-Passing Score: 750 (on a scale of 100–900)      
 
-Recommended Experience:
--Basic IT knowledge
--Networking fundamentals
--Entry-level cybersecurity concepts
+Recommended Experience:       
+-Basic IT knowledge       
+-Networking fundamentals      
+-Entry-level cybersecurity concepts      
 
 📊 Exam Domains & Weighting
 Domain	Description	Weight
