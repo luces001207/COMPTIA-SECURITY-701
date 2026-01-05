@@ -74,7 +74,7 @@ Link: https://youtu.be/SmzTNZwJnIw?si=l1oaRImnz4PQ50Cl
 O’Reilly Learning Platform:https://www.oreilly.com/    
 
 **🎓 Free for University Students**    
--Register with your school email for free access to:    
+-Register with your school email for free access to O’Reilly Media:        
 -Security+ textbooks     
 -Practice exams   
 -Hands-on labs   
