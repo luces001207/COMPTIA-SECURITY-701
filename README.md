@@ -92,12 +92,12 @@ Quizlet: https://quizlet.com/931359441/comptia-security-sy0-701-flashcards-creat
 
 
 **📄 PDF Practice Materials (Downloaded)**    
--Free PDF Practice Questions    
+-Free PDF Practice Questions - (1000+ Practice questions)   
 
 **⭐ Highly recommended**    
 -Download and practice offline to reinforce exam-style questions.    
 
-**💡 Other Resources Recommended**    
+**💡 Other Resources Recommended (PBQs)**    
 -Linux Commands: https://www.digitalocean.com/community/tutorials/linux-commands   
 -Firewall iptables: https://sudamtm.medium.com/iptables-a-comprehensive-guide-276b8604eff1     
 
