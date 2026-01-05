@@ -9,8 +9,8 @@
 Exam Code: SY0-701    
 Certification: CompTIA Security+    
 Duration: 90 minutes    
-Maximum Questions: Up to 90
-Check THIS:https://www.comptia.org/en-us/certifications/security/ 
+Maximum Questions: Up to 90      
+Check THIS:https://www.comptia.org/en-us/certifications/security/       
 
 Question Types:     
 -Multiple Choice    
