@@ -10,7 +10,7 @@ Exam Code: SY0-701
 Certification: CompTIA Security+    
 Duration: 90 minutes    
 Maximum Questions: Up to 90      
-Check THIS:https://www.comptia.org/en-us/certifications/security/       
+Check THIS: https://www.comptia.org/en-us/certifications/security/       
 
 Question Types:     
 -Multiple Choice    
@@ -71,7 +71,7 @@ Link: https://youtu.be/SmzTNZwJnIw?si=l1oaRImnz4PQ50Cl
 
 
 **📚 Books & Practice Resources**    
-O’Reilly Learning Platform:https://www.oreilly.com/    
+O’Reilly Learning Platform: https://www.oreilly.com/    
 
 **🎓 Free for University Students**    
 -Register with your school email for free access to O’Reilly Media:        
@@ -98,8 +98,8 @@ Quizlet: https://quizlet.com/931359441/comptia-security-sy0-701-flashcards-creat
 -Download and practice offline to reinforce exam-style questions.    
 
 **💡 Other Resources Recommended**    
--Linux Commands:https://www.digitalocean.com/community/tutorials/linux-commands   
--Firewall iptables:https://sudamtm.medium.com/iptables-a-comprehensive-guide-276b8604eff1     
+-Linux Commands: https://www.digitalocean.com/community/tutorials/linux-commands   
+-Firewall iptables: https://sudamtm.medium.com/iptables-a-comprehensive-guide-276b8604eff1     
 
 **🧠 Study Tips (From My Experience)**    
 -Understand why an answer is correct, not just what    
